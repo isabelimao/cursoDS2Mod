@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\bin\Debug\voa_passaro.exe.config
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\bin\Debug\voa_passaro.exe
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\bin\Debug\voa_passaro.pdb
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.jogo.resources
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.Properties.Resources.resources
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.csproj.GenerateResource.cache
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.exe
+C:\Users\J\source\repos\DS2\voa_passaro\voa_passaro\obj\Debug\voa_passaro.pdb

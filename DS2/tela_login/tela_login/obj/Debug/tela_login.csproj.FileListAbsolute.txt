@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\DS2\tela_login\tela_login\bin\Debug\tela_login.exe.config
+C:\Users\J\source\repos\DS2\tela_login\tela_login\bin\Debug\tela_login.exe
+C:\Users\J\source\repos\DS2\tela_login\tela_login\bin\Debug\tela_login.pdb
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.login.resources
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.Properties.Resources.resources
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.csproj.GenerateResource.cache
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.exe
+C:\Users\J\source\repos\DS2\tela_login\tela_login\obj\Debug\tela_login.pdb

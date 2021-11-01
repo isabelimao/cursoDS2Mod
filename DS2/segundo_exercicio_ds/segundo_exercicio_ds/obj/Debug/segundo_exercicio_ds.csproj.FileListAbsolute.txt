@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\bin\Debug\segundo_exercicio_ds.exe.config
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\bin\Debug\segundo_exercicio_ds.exe
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\bin\Debug\segundo_exercicio_ds.pdb
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\obj\Debug\segundo_exercicio_ds.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\obj\Debug\segundo_exercicio_ds.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\obj\Debug\segundo_exercicio_ds.exe
+C:\Users\J\source\repos\DS2\segundo_exercicio_ds\segundo_exercicio_ds\obj\Debug\segundo_exercicio_ds.pdb

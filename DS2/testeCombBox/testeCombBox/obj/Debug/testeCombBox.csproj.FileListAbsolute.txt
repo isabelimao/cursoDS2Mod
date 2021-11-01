@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\bin\Debug\testeCombBox.exe.config
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\bin\Debug\testeCombBox.exe
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\bin\Debug\testeCombBox.pdb
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.Form1.resources
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.Properties.Resources.resources
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.csproj.GenerateResource.cache
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.exe
+C:\Users\J\source\repos\DS2\testeCombBox\testeCombBox\obj\Debug\testeCombBox.pdb

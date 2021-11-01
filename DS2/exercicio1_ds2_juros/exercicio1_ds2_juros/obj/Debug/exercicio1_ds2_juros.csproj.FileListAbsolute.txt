@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\bin\Debug\exercicio1_ds2_juros.exe.config
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\bin\Debug\exercicio1_ds2_juros.exe
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\bin\Debug\exercicio1_ds2_juros.pdb
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\obj\Debug\exercicio1_ds2_juros.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\obj\Debug\exercicio1_ds2_juros.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\obj\Debug\exercicio1_ds2_juros.exe
+C:\Users\J\source\repos\DS2\exercicio1_ds2_juros\exercicio1_ds2_juros\obj\Debug\exercicio1_ds2_juros.pdb
