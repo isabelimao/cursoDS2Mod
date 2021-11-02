@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\bin\Debug\somasEmediasComLacos.exe.config
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\bin\Debug\somasEmediasComLacos.exe
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\bin\Debug\somasEmediasComLacos.pdb
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.csprojAssemblyReference.cache
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.SomaMediaLaco.resources
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.Properties.Resources.resources
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.csproj.GenerateResource.cache
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.exe
+C:\Users\J\source\repos\somasEmediasComLacos\somasEmediasComLacos\obj\Debug\somasEmediasComLacos.pdb

@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\bin\Debug\licaoAlexIdadeMedia.exe.config
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\bin\Debug\licaoAlexIdadeMedia.exe
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\bin\Debug\licaoAlexIdadeMedia.pdb
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\obj\Debug\licaoAlexIdadeMedia.csprojAssemblyReference.cache
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\obj\Debug\licaoAlexIdadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\obj\Debug\licaoAlexIdadeMedia.exe
+C:\Users\J\source\repos\licaoAlexIdadeMedia\licaoAlexIdadeMedia\obj\Debug\licaoAlexIdadeMedia.pdb

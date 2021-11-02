@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\randomNaString\randomNaString\obj\Debug\randomNaString.csprojAssemblyReference.cache
+C:\Users\J\source\repos\randomNaString\randomNaString\obj\Debug\randomNaString.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\randomNaString\randomNaString\bin\Debug\randomNaString.exe.config
+C:\Users\J\source\repos\randomNaString\randomNaString\bin\Debug\randomNaString.exe
+C:\Users\J\source\repos\randomNaString\randomNaString\bin\Debug\randomNaString.pdb
+C:\Users\J\source\repos\randomNaString\randomNaString\obj\Debug\randomNaString.exe
+C:\Users\J\source\repos\randomNaString\randomNaString\obj\Debug\randomNaString.pdb

@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\bin\Debug\algoritmosCorteControle.exe.config
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\bin\Debug\algoritmosCorteControle.exe
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\bin\Debug\algoritmosCorteControle.pdb
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\obj\Debug\algoritmosCorteControle.csprojAssemblyReference.cache
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\obj\Debug\algoritmosCorteControle.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\obj\Debug\algoritmosCorteControle.exe
+C:\Users\J\source\repos\algoritmosCorteControle\algoritmosCorteControle\obj\Debug\algoritmosCorteControle.pdb

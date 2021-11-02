@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pedra_papel_tesoura_oob", "pedra_papel_tesoura_oob\pedra_papel_tesoura_oob.csproj", "{E30154C4-5CF0-490E-80AD-65EC3F738F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30154C4-5CF0-490E-80AD-65EC3F738F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30154C4-5CF0-490E-80AD-65EC3F738F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30154C4-5CF0-490E-80AD-65EC3F738F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30154C4-5CF0-490E-80AD-65EC3F738F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E838EC-765A-4ECD-851B-CA3FCB4669EE}
+	EndGlobalSection
+EndGlobal

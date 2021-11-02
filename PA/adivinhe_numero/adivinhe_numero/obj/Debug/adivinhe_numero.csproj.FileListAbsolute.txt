@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\bin\Debug\adivinhe_numero.exe.config
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\bin\Debug\adivinhe_numero.exe
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\bin\Debug\adivinhe_numero.pdb
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\obj\Debug\adivinhe_numero.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\obj\Debug\adivinhe_numero.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\obj\Debug\adivinhe_numero.exe
+C:\Users\J\source\repos\adivinhe_numero\adivinhe_numero\obj\Debug\adivinhe_numero.pdb

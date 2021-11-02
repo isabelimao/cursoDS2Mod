@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\bin\Debug\copiarValorVetor.exe.config
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\bin\Debug\copiarValorVetor.exe
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\bin\Debug\copiarValorVetor.pdb
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.Form1.resources
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.Properties.Resources.resources
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.csproj.GenerateResource.cache
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.exe
+C:\Users\J\source\repos\copiarValorVetor\copiarValorVetor\obj\Debug\copiarValorVetor.pdb

@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\bin\Debug\CalcularPesoIdeal.exe.config
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\bin\Debug\CalcularPesoIdeal.exe
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\bin\Debug\CalcularPesoIdeal.pdb
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.csprojAssemblyReference.cache
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.Form1.resources
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.Properties.Resources.resources
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.csproj.GenerateResource.cache
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.exe
+C:\Users\J\source\repos\CalcularPesoIdeal\CalcularPesoIdeal\obj\Debug\CalcularPesoIdeal.pdb

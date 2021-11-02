@@ -1,0 +1,10 @@
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\bin\Debug\ex3Lacos.exe.config
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\bin\Debug\ex3Lacos.exe
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\bin\Debug\ex3Lacos.pdb
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.csprojAssemblyReference.cache
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.Form1.resources
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.Properties.Resources.resources
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.csproj.GenerateResource.cache
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.exe
+C:\Users\alexg\Desktop\ex3Lacos\ex3Lacos\obj\Debug\ex3Lacos.pdb

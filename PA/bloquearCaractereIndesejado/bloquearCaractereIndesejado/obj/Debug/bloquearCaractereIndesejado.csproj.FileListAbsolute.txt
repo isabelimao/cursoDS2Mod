@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\bin\Debug\bloquearCaractereIndesejado.exe.config
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\bin\Debug\bloquearCaractereIndesejado.exe
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\bin\Debug\bloquearCaractereIndesejado.pdb
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.csprojAssemblyReference.cache
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.comprinhas.resources
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.Properties.Resources.resources
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.csproj.GenerateResource.cache
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.exe
+C:\Users\J\source\repos\bloquearCaractereIndesejado\bloquearCaractereIndesejado\obj\Debug\bloquearCaractereIndesejado.pdb

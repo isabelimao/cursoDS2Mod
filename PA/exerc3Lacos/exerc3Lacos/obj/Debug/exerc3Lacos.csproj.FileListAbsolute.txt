@@ -1,0 +1,26 @@
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\bin\Debug\exerc3Lacos.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\bin\Debug\exerc3Lacos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\bin\Debug\exerc3Lacos.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csprojAssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.Form1.resources
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.Properties.Resources.resources
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.exe
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\manue\OneDrive\Área de Trabalho\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csproj.CopyComplete
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\bin\Debug\exerc3Lacos.exe.config
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\bin\Debug\exerc3Lacos.exe
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\bin\Debug\exerc3Lacos.pdb
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csprojAssemblyReference.cache
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.Form1.resources
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.Properties.Resources.resources
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csproj.GenerateResource.cache
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.csproj.CopyComplete
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.exe
+C:\Users\J\Desktop\exerc3Lacos\exerc3Lacos\obj\Debug\exerc3Lacos.pdb

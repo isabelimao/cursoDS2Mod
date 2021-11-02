@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\bin\Debug\testeGameParImpar.exe.config
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\bin\Debug\testeGameParImpar.exe
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\bin\Debug\testeGameParImpar.pdb
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\obj\Debug\testeGameParImpar.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\obj\Debug\testeGameParImpar.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\obj\Debug\testeGameParImpar.exe
+C:\Users\J\source\repos\testeGameParImpar\testeGameParImpar\obj\Debug\testeGameParImpar.pdb

@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\brincandoString\brincandoString\bin\Debug\brincandoString.exe.config
+C:\Users\J\source\repos\brincandoString\brincandoString\bin\Debug\brincandoString.exe
+C:\Users\J\source\repos\brincandoString\brincandoString\bin\Debug\brincandoString.pdb
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.csprojAssemblyReference.cache
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.Form1.resources
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.Properties.Resources.resources
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.csproj.GenerateResource.cache
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.exe
+C:\Users\J\source\repos\brincandoString\brincandoString\obj\Debug\brincandoString.pdb

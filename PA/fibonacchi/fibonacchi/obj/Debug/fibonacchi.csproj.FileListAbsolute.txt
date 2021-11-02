@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\fibonacchi\fibonacchi\bin\Debug\fibonacchi.exe.config
+C:\Users\J\source\repos\fibonacchi\fibonacchi\bin\Debug\fibonacchi.exe
+C:\Users\J\source\repos\fibonacchi\fibonacchi\bin\Debug\fibonacchi.pdb
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.csprojAssemblyReference.cache
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.Form1.resources
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.Properties.Resources.resources
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.csproj.GenerateResource.cache
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.exe
+C:\Users\J\source\repos\fibonacchi\fibonacchi\obj\Debug\fibonacchi.pdb

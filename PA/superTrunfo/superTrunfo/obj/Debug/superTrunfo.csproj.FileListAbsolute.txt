@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\superTrunfo\superTrunfo\bin\Debug\superTrunfo.exe.config
+C:\Users\J\source\repos\superTrunfo\superTrunfo\bin\Debug\superTrunfo.exe
+C:\Users\J\source\repos\superTrunfo\superTrunfo\bin\Debug\superTrunfo.pdb
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.csprojAssemblyReference.cache
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.Form1.resources
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.Properties.Resources.resources
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.csproj.GenerateResource.cache
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.exe
+C:\Users\J\source\repos\superTrunfo\superTrunfo\obj\Debug\superTrunfo.pdb

@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\bin\Debug\manipulando_strings.exe.config
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\bin\Debug\manipulando_strings.exe
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\bin\Debug\manipulando_strings.pdb
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\obj\Debug\manipulando_strings.csprojAssemblyReference.cache
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\obj\Debug\manipulando_strings.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\obj\Debug\manipulando_strings.exe
+C:\Users\J\source\repos\manipulando_strings\manipulando_strings\obj\Debug\manipulando_strings.pdb

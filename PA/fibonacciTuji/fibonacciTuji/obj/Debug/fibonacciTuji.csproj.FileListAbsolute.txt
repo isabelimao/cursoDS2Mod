@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\bin\Debug\fibonacciTuji.exe.config
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\bin\Debug\fibonacciTuji.exe
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\bin\Debug\fibonacciTuji.pdb
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\obj\Debug\fibonacciTuji.csprojAssemblyReference.cache
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\obj\Debug\fibonacciTuji.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\obj\Debug\fibonacciTuji.exe
+C:\Users\J\source\repos\fibonacciTuji\fibonacciTuji\obj\Debug\fibonacciTuji.pdb

@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\bin\Debug\hospital_Lapa.exe.config
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\bin\Debug\hospital_Lapa.exe
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\bin\Debug\hospital_Lapa.pdb
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.csprojAssemblyReference.cache
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.Properties.Resources.resources
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.csproj.GenerateResource.cache
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.exe
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.pdb
+C:\Users\J\source\repos\hospital_Lapa\hospital_Lapa\obj\Debug\hospital_Lapa.frmHospital.resources

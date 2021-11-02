@@ -1,0 +1,20 @@
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\bin\Debug\AtividadeFatorial02.exe.config
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\bin\Debug\AtividadeFatorial02.exe
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\bin\Debug\AtividadeFatorial02.pdb
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.Form1.resources
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.Properties.Resources.resources
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.exe
+C:\Users\Windows\Desktop\TRABALHOS DA ETEC\APS(ALEX)\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.pdb
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\bin\Debug\AtividadeFatorial02.exe.config
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\bin\Debug\AtividadeFatorial02.exe
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\bin\Debug\AtividadeFatorial02.pdb
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.csprojAssemblyReference.cache
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.Form1.resources
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.Properties.Resources.resources
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.csproj.GenerateResource.cache
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.exe
+C:\Users\J\Desktop\AtividadeFatorial02\AtividadeFatorial02\obj\Debug\AtividadeFatorial02.pdb

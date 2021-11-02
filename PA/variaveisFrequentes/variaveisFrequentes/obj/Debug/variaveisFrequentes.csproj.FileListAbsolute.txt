@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\bin\Debug\variaveisFrequentes.exe.config
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\bin\Debug\variaveisFrequentes.exe
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\bin\Debug\variaveisFrequentes.pdb
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\obj\Debug\variaveisFrequentes.csprojAssemblyReference.cache
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\obj\Debug\variaveisFrequentes.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\obj\Debug\variaveisFrequentes.exe
+C:\Users\J\source\repos\variaveisFrequentes\variaveisFrequentes\obj\Debug\variaveisFrequentes.pdb

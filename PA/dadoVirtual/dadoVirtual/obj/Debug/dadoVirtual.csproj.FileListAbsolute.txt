@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\bin\Debug\dadoVirtual.exe.config
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\bin\Debug\dadoVirtual.exe
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\bin\Debug\dadoVirtual.pdb
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.csprojAssemblyReference.cache
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.Form1.resources
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.Properties.Resources.resources
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.csproj.GenerateResource.cache
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.exe
+C:\Users\J\source\repos\dadoVirtual\dadoVirtual\obj\Debug\dadoVirtual.pdb

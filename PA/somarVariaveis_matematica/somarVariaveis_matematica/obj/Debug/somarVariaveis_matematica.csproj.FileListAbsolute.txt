@@ -1,0 +1,10 @@
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\bin\Debug\somarVariaveis_matematica.exe.config
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\bin\Debug\somarVariaveis_matematica.exe
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\bin\Debug\somarVariaveis_matematica.pdb
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.csprojAssemblyReference.cache
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.Properties.Resources.resources
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.csproj.GenerateResource.cache
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.exe
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.pdb
+C:\Users\J\Desktop\somarVariaveis_matematica\somarVariaveis_matematica\obj\Debug\somarVariaveis_matematica.frmCalculadora.resources

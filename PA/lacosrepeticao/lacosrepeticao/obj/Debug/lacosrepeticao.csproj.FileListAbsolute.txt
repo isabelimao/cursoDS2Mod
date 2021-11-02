@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\bin\Debug\lacosrepeticao.exe.config
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\bin\Debug\lacosrepeticao.exe
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\bin\Debug\lacosrepeticao.pdb
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.csprojAssemblyReference.cache
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.Form1.resources
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.Properties.Resources.resources
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.csproj.GenerateResource.cache
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.exe
+C:\Users\J\source\repos\lacosrepeticao\lacosrepeticao\obj\Debug\lacosrepeticao.pdb

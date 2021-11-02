@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\bin\Debug\algoritmosBusca.exe.config
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\bin\Debug\algoritmosBusca.exe
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\bin\Debug\algoritmosBusca.pdb
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\obj\Debug\algoritmosBusca.csprojAssemblyReference.cache
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\obj\Debug\algoritmosBusca.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\obj\Debug\algoritmosBusca.exe
+C:\Users\J\source\repos\algoritmosBusca\algoritmosBusca\obj\Debug\algoritmosBusca.pdb

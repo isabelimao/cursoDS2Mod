@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\loteriaApp\loteriaApp\bin\Debug\loteriaApp.exe.config
+C:\Users\J\source\repos\loteriaApp\loteriaApp\bin\Debug\loteriaApp.exe
+C:\Users\J\source\repos\loteriaApp\loteriaApp\bin\Debug\loteriaApp.pdb
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.csprojAssemblyReference.cache
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.loteria.resources
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.Properties.Resources.resources
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.csproj.GenerateResource.cache
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.exe
+C:\Users\J\source\repos\loteriaApp\loteriaApp\obj\Debug\loteriaApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\bin\Debug\ler_1ate12.exe.config
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\bin\Debug\ler_1ate12.exe
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\bin\Debug\ler_1ate12.pdb
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.csprojAssemblyReference.cache
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.Form1.resources
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.Properties.Resources.resources
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.csproj.GenerateResource.cache
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.exe
+C:\Users\J\source\repos\ler_1ate12\ler_1ate12\obj\Debug\ler_1ate12.pdb

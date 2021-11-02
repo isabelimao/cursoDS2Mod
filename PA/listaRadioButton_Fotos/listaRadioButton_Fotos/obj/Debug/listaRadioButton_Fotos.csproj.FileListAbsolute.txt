@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\bin\Debug\listaRadioButton_Fotos.exe.config
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\bin\Debug\listaRadioButton_Fotos.exe
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\bin\Debug\listaRadioButton_Fotos.pdb
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.csprojAssemblyReference.cache
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.Form1.resources
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.Properties.Resources.resources
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.csproj.GenerateResource.cache
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.exe
+C:\Users\J\source\repos\listaRadioButton_Fotos\listaRadioButton_Fotos\obj\Debug\listaRadioButton_Fotos.pdb

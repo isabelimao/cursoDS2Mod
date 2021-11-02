@@ -1,0 +1,9 @@
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\bin\Debug\ex2Lacos.exe.config
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\bin\Debug\ex2Lacos.exe
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\bin\Debug\ex2Lacos.pdb
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\obj\Debug\ex2Lacos.Form1.resources
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\obj\Debug\ex2Lacos.Properties.Resources.resources
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\obj\Debug\ex2Lacos.csproj.GenerateResource.cache
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\obj\Debug\ex2Lacos.csproj.CoreCompileInputs.cache
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\obj\Debug\ex2Lacos.exe
+C:\Users\alexg\Desktop\ex2Lacos\ex2Lacos\obj\Debug\ex2Lacos.pdb

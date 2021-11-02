@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\bin\Debug\procurarNomeLista.exe.config
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\bin\Debug\procurarNomeLista.exe
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\bin\Debug\procurarNomeLista.pdb
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\obj\Debug\procurarNomeLista.csprojAssemblyReference.cache
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\obj\Debug\procurarNomeLista.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\obj\Debug\procurarNomeLista.exe
+C:\Users\J\source\repos\procurarNomeLista\procurarNomeLista\obj\Debug\procurarNomeLista.pdb

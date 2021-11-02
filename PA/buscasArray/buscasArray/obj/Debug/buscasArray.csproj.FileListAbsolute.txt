@@ -1,0 +1,10 @@
+C:\Users\J\Desktop\buscasArray\buscasArray\bin\Debug\buscasArray.exe.config
+C:\Users\J\Desktop\buscasArray\buscasArray\bin\Debug\buscasArray.exe
+C:\Users\J\Desktop\buscasArray\buscasArray\bin\Debug\buscasArray.pdb
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.csprojAssemblyReference.cache
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.Form1.resources
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.Properties.Resources.resources
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.csproj.GenerateResource.cache
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.exe
+C:\Users\J\Desktop\buscasArray\buscasArray\obj\Debug\buscasArray.pdb

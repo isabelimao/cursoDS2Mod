@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\bin\Debug\testeFibonacchi.exe.config
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\bin\Debug\testeFibonacchi.exe
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\bin\Debug\testeFibonacchi.pdb
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\obj\Debug\testeFibonacchi.csprojAssemblyReference.cache
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\obj\Debug\testeFibonacchi.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\obj\Debug\testeFibonacchi.exe
+C:\Users\J\source\repos\testeFibonacchi\testeFibonacchi\obj\Debug\testeFibonacchi.pdb

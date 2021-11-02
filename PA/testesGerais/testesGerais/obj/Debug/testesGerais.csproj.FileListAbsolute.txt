@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\testesGerais\testesGerais\bin\Debug\testesGerais.exe.config
+C:\Users\J\source\repos\testesGerais\testesGerais\bin\Debug\testesGerais.exe
+C:\Users\J\source\repos\testesGerais\testesGerais\bin\Debug\testesGerais.pdb
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.csprojAssemblyReference.cache
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.Form1.resources
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.Properties.Resources.resources
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.csproj.GenerateResource.cache
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.exe
+C:\Users\J\source\repos\testesGerais\testesGerais\obj\Debug\testesGerais.pdb

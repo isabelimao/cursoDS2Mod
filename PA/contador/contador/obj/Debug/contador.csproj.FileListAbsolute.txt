@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\contador\contador\bin\Debug\contador.exe.config
+C:\Users\J\source\repos\contador\contador\bin\Debug\contador.exe
+C:\Users\J\source\repos\contador\contador\bin\Debug\contador.pdb
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.csprojAssemblyReference.cache
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.Form1.resources
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.Properties.Resources.resources
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.csproj.GenerateResource.cache
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.exe
+C:\Users\J\source\repos\contador\contador\obj\Debug\contador.pdb

@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\bin\Debug\trianguloOrientacaoObjetoTp.exe.config
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\bin\Debug\trianguloOrientacaoObjetoTp.exe
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\bin\Debug\trianguloOrientacaoObjetoTp.pdb
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\obj\Debug\trianguloOrientacaoObjetoTp.csproj.AssemblyReference.cache
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\obj\Debug\trianguloOrientacaoObjetoTp.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\obj\Debug\trianguloOrientacaoObjetoTp.exe
+C:\Users\J\source\repos\trianguloOrientacaoObjetoTp\trianguloOrientacaoObjetoTp\obj\Debug\trianguloOrientacaoObjetoTp.pdb

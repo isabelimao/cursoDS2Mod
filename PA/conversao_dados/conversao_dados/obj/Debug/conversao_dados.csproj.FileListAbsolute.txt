@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\conversao_dados\conversao_dados\bin\Debug\conversao_dados.exe.config
+C:\Users\J\source\repos\conversao_dados\conversao_dados\bin\Debug\conversao_dados.exe
+C:\Users\J\source\repos\conversao_dados\conversao_dados\bin\Debug\conversao_dados.pdb
+C:\Users\J\source\repos\conversao_dados\conversao_dados\obj\Debug\conversao_dados.csprojAssemblyReference.cache
+C:\Users\J\source\repos\conversao_dados\conversao_dados\obj\Debug\conversao_dados.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\conversao_dados\conversao_dados\obj\Debug\conversao_dados.exe
+C:\Users\J\source\repos\conversao_dados\conversao_dados\obj\Debug\conversao_dados.pdb

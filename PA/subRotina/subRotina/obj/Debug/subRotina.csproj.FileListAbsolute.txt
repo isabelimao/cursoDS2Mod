@@ -1,0 +1,10 @@
+C:\Users\J\source\repos\subRotina\subRotina\bin\Debug\subRotina.exe.config
+C:\Users\J\source\repos\subRotina\subRotina\bin\Debug\subRotina.exe
+C:\Users\J\source\repos\subRotina\subRotina\bin\Debug\subRotina.pdb
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.csprojAssemblyReference.cache
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.Form1.resources
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.Properties.Resources.resources
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.csproj.GenerateResource.cache
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.exe
+C:\Users\J\source\repos\subRotina\subRotina\obj\Debug\subRotina.pdb

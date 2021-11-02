@@ -1,0 +1,10 @@
+C:\Users\J\Desktop\brincando_label\brincando_label\bin\Debug\brincando_label.exe.config
+C:\Users\J\Desktop\brincando_label\brincando_label\bin\Debug\brincando_label.exe
+C:\Users\J\Desktop\brincando_label\brincando_label\bin\Debug\brincando_label.pdb
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.csprojAssemblyReference.cache
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.mudarNomes.resources
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.Properties.Resources.resources
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.csproj.GenerateResource.cache
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.exe
+C:\Users\J\Desktop\brincando_label\brincando_label\obj\Debug\brincando_label.pdb

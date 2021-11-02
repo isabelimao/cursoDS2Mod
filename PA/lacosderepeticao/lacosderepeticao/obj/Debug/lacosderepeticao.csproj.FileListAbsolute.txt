@@ -1,0 +1,7 @@
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\bin\Debug\lacosderepeticao.exe.config
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\bin\Debug\lacosderepeticao.exe
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\bin\Debug\lacosderepeticao.pdb
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\obj\Debug\lacosderepeticao.csprojAssemblyReference.cache
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\obj\Debug\lacosderepeticao.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\obj\Debug\lacosderepeticao.exe
+C:\Users\J\source\repos\lacosderepeticao\lacosderepeticao\obj\Debug\lacosderepeticao.pdb

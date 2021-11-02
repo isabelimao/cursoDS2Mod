@@ -1,0 +1,40 @@
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe.config
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.pdb
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Form1.resources
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Properties.Resources.resources
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.GenerateResource.cache
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.exe
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.pdb
+C:\Users\J\Desktop\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csprojAssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe.config
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.pdb
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csprojAssemblyReference.cache
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Form1.resources
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Properties.Resources.resources
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.GenerateResource.cache
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.exe
+C:\Users\manue\OneDrive\Área de Trabalho\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.pdb
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe.config
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.pdb
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csprojAssemblyReference.cache
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Form1.resources
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Properties.Resources.resources
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.GenerateResource.cache
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.exe
+C:\Users\J\Desktop\Curso JavaScript\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.pdb
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe.config
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.exe
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\bin\Debug\pedra_papel_Tesoura.pdb
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csprojAssemblyReference.cache
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Form1.resources
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.Properties.Resources.resources
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.GenerateResource.cache
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.exe
+C:\Users\Rafa\Downloads\pedra_papel_Tesoura\pedra_papel_Tesoura\obj\Debug\pedra_papel_Tesoura.pdb

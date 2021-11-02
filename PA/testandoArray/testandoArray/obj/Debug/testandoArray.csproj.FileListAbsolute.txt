@@ -1,0 +1,7 @@
+C:\Users\J\Desktop\testandoArray\testandoArray\obj\Debug\testandoArray.csprojAssemblyReference.cache
+C:\Users\J\Desktop\testandoArray\testandoArray\obj\Debug\testandoArray.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\testandoArray\testandoArray\bin\Debug\testandoArray.exe.config
+C:\Users\J\Desktop\testandoArray\testandoArray\bin\Debug\testandoArray.exe
+C:\Users\J\Desktop\testandoArray\testandoArray\bin\Debug\testandoArray.pdb
+C:\Users\J\Desktop\testandoArray\testandoArray\obj\Debug\testandoArray.exe
+C:\Users\J\Desktop\testandoArray\testandoArray\obj\Debug\testandoArray.pdb
